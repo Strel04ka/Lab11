@@ -1,0 +1,12 @@
+﻿  Lab11.3.cpp
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(58,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(113,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(136,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(183,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(214,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(218,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(238,6): warning C4101: 'ikurs': unreferenced local variable
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(241,6): warning C4101: 'iMath': unreferenced local variable
+C:\Users\Oleg\source\repos\Lab11.3\Lab11.3\Lab11.3.cpp(240,6): warning C4101: 'ispec': unreferenced local variable
+  Lab11.3.vcxproj -> C:\Users\Oleg\source\repos\Lab11.3\Debug\Lab11.3.exe
